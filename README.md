@@ -64,7 +64,7 @@
   <ul>
   <li>React</li>
   <li>Typescript</li>
-  <li>Scss</li>
+  <li>SCSS</li>
   <li>Firebase</li>
   </ul>
   
