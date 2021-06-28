@@ -1,7 +1,7 @@
 <p align="center">
    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23845afd">
    <img alt="Stargazers" src="https://img.shields.io/badge/Stars-1-%23845afd">
-  <img alt="Stargazers" src="https://img.shields.io/badge/Forks-1-%23845afd">
+  <img alt="Stargazers" src="https://img.shields.io/badge/Forks-0-%23845afd">
  
   
   
