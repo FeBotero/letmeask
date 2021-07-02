@@ -46,9 +46,12 @@
 <h2 id="como_executar">Como executar</h2>
   <p>Execute os comandos no seu terminal:</p>
   
-  <pre>
+  
+ 
+  <pre> 
+       <code>
   <span># Clone o repositório</span>
-      $ git clone https://github.com/lorenatoscano/letmeask.git
+      $ git clone https://github.com/ravnosbotero/letmeask.git
 
   <span># Entre no repositório</span>
       $ cd letmeask
@@ -58,7 +61,9 @@
 
   <span># Execute a aplicação</span>
       $ yarn start
+      </code>
   </pre>
+  
   
   <h2 id="tecnologias">Tecnologias</h2>
   <ul>
