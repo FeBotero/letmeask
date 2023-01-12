@@ -18,6 +18,7 @@
  <a href="#como_executar">Como executar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a> • 
+ <a href="#link">Link</a> • 
  <a href="#licenca">Licença</a>
 </p>
 
@@ -79,6 +80,10 @@
   Projeto feito por <a href="https://github.com/ravnosbotero/">Felipe Botero<a/></p>
   
   
+ <h2 id="link">Link</h2> 
+ 
+ <h4>Você pode acessar esse projeto atraves do link https://letmeask-d6486.web.app/ </h4>
+   
 <h2 id="licenca">Licença</h2>
 
 <h4>Este projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/ravnosbotero/letmeask/blob/main/licen%C3%A7a.txt">LICENSE</a> para mais detalhes.</h4>
